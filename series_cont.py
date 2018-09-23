@@ -1,3 +1,4 @@
+# This code evaluates contorversy over the time.
 import datetime as dt
 import os
 from odd_scorer import OddScore
